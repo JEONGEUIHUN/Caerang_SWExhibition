@@ -32,9 +32,6 @@ https://github.com/Meang27/Meang27
 <My_Hallym - 19학번 이소은, 19학번 정희선, 19학번 서영재>
 https://github.com/glee623/C-aerang
 
-<7Segments - 19학번 정민재, 19학번 김홍의, 17학번 백경민>
-https://github.com/mjjung999/CaerangProject
-
 
 ## 라온 팀
 >
@@ -68,8 +65,6 @@ https://github.com/Mellow1213/RaonProject_2020
 ## 코어 팀
 >
 20학번 연예림 : [https://github.com/yerimYeon/animal-Face]
-
-19학번 김소희,19학번 이예진, 19학번 박서정 : [https://github.com/seojeongP/sw_exhibition]
 
 20학번 설동호 : [https://github.com/hiimseoll/hiimseoll]
 
