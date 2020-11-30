@@ -82,7 +82,7 @@ https://github.com/Mellow1213/RaonProject_2020
 
 ## 태그 팀
 >
-<16학번 송정현> https://github.com/song6368/sjhsky/blob/main/README.md
+<16학번 송정현, 16학번 서기영> https://github.com/song6368/sjhsky/blob/main/README.md
 
 <한림대학교 포털사이트 및 로그인페이지 - 20학번 한성진> https://github.com/hsj1017/2020_software_fair
 
