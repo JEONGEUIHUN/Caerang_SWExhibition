@@ -38,6 +38,9 @@ https://github.com/glee623/C-aerang
 <Colosseum - 16학번 길한얼>
 https://github.com/ChartaP/Colosseum
 
+19학번 채준혁
+https://github.com/ch4302/2020_sw_exhibition
+
 <점프맵 - 18학번 구희섭>
 https://github.com/Gumuge/UnityProject
 
